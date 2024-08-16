@@ -1,6 +1,6 @@
-# Server Data Fetcher
+# H2M Servers
 
-This script fetches server data from a specified URL, filters the data for servers running a specific game, and saves the IP and port of those servers to a JSON file.
+Basically all this does, is grabs the H2M server slaps the IP and the Port into a server.json file
 
 ## Prerequisites
 
