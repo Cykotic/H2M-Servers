@@ -2,7 +2,7 @@ const axios = require('axios');
 const fs = require('fs');
 const path = require('path');
 
-const url = 'http://api.raidmax.org:5000/instance';
+const url = 'https://master.iw4.zip/instance';
 
 /**
  * Fetches and processes server data from the specified URL.
